@@ -1,2 +1,10 @@
 This is first feature of our application
-This is gadbad code
+<<<<<<< HEAD
+
+This is the bug fix in development branch
+
+Added feature2 in development branch
+
+This feature will gadbad everything from now.
+=======
+>>>>>>> parent of f2e2dbe (Added feature2 in development branch)
